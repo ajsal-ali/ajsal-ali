@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/46f764962d012a38e344425d8ac7b2cfb94d7cf21f4fd3a396f70d7bd2ca8f00/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966" width="350" height="250" />
 
-- 🎓 Sophomore at **IIT Kharagpur**
+- 🎓 Pre-final year student at **IIT Kharagpur**
 - 🚀 AI/DL enthusiast exploring the depths of deep learning with a focus on real-time AI solutions.
 - 📫 Reach me at **ajsalali2005@gmail.com**
 
