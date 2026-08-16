@@ -1,32 +1,118 @@
-<h1 align="center">Hi 👋, I'm Ajsal Ali</h1>
-<h3 align="center">A passionate AI/DL enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Ajsal%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Robotics%20Software%20%7C%20Perception%20%7C%20Computer%20Vision&descAlignY=55&descSize=16" width="100%"/>
 
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="350" height="250" />
-
-- 🎓 Pre-final year student at **IIT Kharagpur**
-- 🚀 AI/DL enthusiast exploring the depths of deep learning with a focus on real-time AI solutions.
-- 📫 Reach me at **ajsalali2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ajsalali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajsalali" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/ajsalali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ajsalali2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IIT%20Kharagpur-8B0000?style=flat-square&logo=googlescholar&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+<br/>
+
+```cpp
+struct Dev {
+    std::string name    = "Ajsal Ali";
+    std::string role    = "Robotics Software Developer";
+    std::string school  = "IIT Kharagpur";
+    std::vector<std::string> focus = { "perception", "SLAM", "motion planning" };
+    bool open_to_work   = true;
+};
+```
+
+<br/>
+
+## 🤖 What I work on
+
+- **Perception** — camera and depth pipelines, object detection, visual odometry
+- **Navigation** — SLAM, localisation, path planning on mobile robots
+- **Systems** — C++ nodes that run on real hardware, not just in simulation
+- **Currently** — building autonomous navigation stacks and getting them off the laptop and onto the robot
+
+<br/>
+
+## 🛠 Stack
+
+**Core**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+**Robotics**
+
+![ROS](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6C00?style=for-the-badge&logo=gazebo&logoColor=white)
+![Eigen](https://img.shields.io/badge/Eigen-556B2F?style=for-the-badge)
+
+**Perception & ML**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/>
+
+## 📦 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="#">Project One</a></h3>
+      <p>One line on what the robot or system actually does.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-ROS%202-22314E?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/>
+      </p>
+      <p><b>Result:</b> the number that proves it worked.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="#">Project Two</a></h3>
+      <p>One line on what it does.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square"/>
+      </p>
+      <p><b>Result:</b> the number that proves it worked.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="#">Project Three</a></h3>
+      <p>One line on what it does.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-Gazebo-FF6C00?style=flat-square"/>
+      </p>
+      <p><b>Result:</b> the number that proves it worked.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="#">Project Four</a></h3>
+      <p>One line on what it does.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/>
+      </p>
+      <p><b>Result:</b> the number that proves it worked.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajsal-ali&show_icons=true&hide_border=true&bg_color=00000000&title_color=2C5364&text_color=808080&icon_color=2C5364&hide=issues"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajsal-ali&layout=compact&hide_border=true&bg_color=00000000&title_color=2C5364&text_color=808080&langs_count=6"/>
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
